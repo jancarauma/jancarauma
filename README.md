@@ -1,31 +1,19 @@
-<h2>Hi there,</h2>
+<h2>Hello.</h2>
 
 <img align="right" src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="300" height="200"/>
 
-### About Me
+### About
 
-- 👋 I'm Janderson Gomes, an electrical engineer, and software developer.
-- :office: Currently working in the physics department at the Federal University of Roraima, Brazil ([UFRR](https://ufrr.br)).
+I am **Janderson Gomes**, an **Electrical Engineer** and **Software Developer** (also a **Data Engineer**), currently working at the **Physics Department** of the **Federal University of Roraima (UFRR)**, in the northern Amazon region of Brazil.
 
-### Connect with Me
+My work involves **data-intensive systems** and **scientific computing**.  
+As a personal research interest, I study and experiment with the **training and improvement of medium- and large-scale AI models (LLMs)**, with a focus on **knowledge representation**.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Janderson%20Gomes-blue)](https://www.linkedin.com/in/jndgomes/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Janderson%20Gomes-blue)](https://www.twitter.com/jancarauma/)
+### Links
 
-<!--
-**jndgomes/jndgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn: https://www.linkedin.com/in/jndgomes/
+- Twitter: https://www.twitter.com/jancarauma/
 
-Here are some ideas to get you started:
+I also maintain a personal archive of **projects, writings, technical notes, $\LaTeX$ templates and other open-source experiments** at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jancarauma&theme=vue" alt="graph" style="vertical-align:top; margin:4px">
-</p>-->
+**https://www.carauma.com**
