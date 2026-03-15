@@ -7,7 +7,8 @@
 I am **Janderson Gomes**, an **Electrical Engineer** and **Software Developer** (also a **Data Engineer**), currently working at the **Physics Department** of the **Federal University of Roraima (UFRR)**, in the northern Amazon region of Brazil.
 
 My work involves **data-intensive systems** and **scientific computing**.  
-As a personal research interest, I study and experiment with the **training and improvement of medium- and large-scale AI models (LLMs)**, with a focus on **knowledge representation**.
+
+I research the design and training of large language models (LLMs) for Amazonian indigenous languages, aiming to support the preservation and computational representation of endangered languages from Roraima and the broader Amazon region.
 
 ### Links
 
