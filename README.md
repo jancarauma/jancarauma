@@ -1,4 +1,4 @@
-<h2>Hi,</h2>
+<h2>Hello,</h2>
 
 <img align="right" src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="300" height="200"/>
 
