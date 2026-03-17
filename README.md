@@ -1,8 +1,6 @@
-<h2>Hello.</h2>
+<h2>Hi,</h2>
 
 <img align="right" src="https://media.giphy.com/media/L3Vca26EaTIEU/giphy.gif" width="300" height="200"/>
-
-### About
 
 I am **Janderson Gomes**, an **Electrical Engineer** and **Software Developer** (also a **Data Engineer**), currently working at the **Physics Department** of the **Federal University of Roraima (UFRR)**, in the northern Amazon region of Brazil.
 
